@@ -1,0 +1,33 @@
+body {
+    margin-left: 50px;
+    margin-top: 50px;
+    justify-content: flex-start;
+}
+
+#search button{
+    background-color: #F4F4F5;
+    color: #109B9C;
+    border: solid;
+    border-radius: 12px;
+    border-color: #109B9C;
+    padding: 5px 25px;
+    display: default;
+    margin: 5px 5px
+}
+#plus button{
+    background-color: #00D0B3;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    padding: 5px 10px;
+    display: default;
+    margin: 5px 5px
+}
+#create button{
+    background-color: #2B79E5;
+    color: white;
+    box-shadow: 5px 5px 5px 1px black;
+    padding: 5px 25px;
+    display: default;
+    margin: 5px 5px
+}
